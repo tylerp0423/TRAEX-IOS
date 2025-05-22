@@ -8,19 +8,21 @@
 
 | Operating System      | Support Status |
 |---------------------- |:-------------:|
-| Windows              | Pending        |
-| macOS                | Pending        |
-| Linux (Generic)      | Pending        |
-| POP!_OS              | Pending        |
-| Ubuntu               | Pending        |
-| Fedora               | Pending        |
-| Debian               | Pending        |
-| Arch Linux           | Pending        |
-| Android              | Pending        |
-| Android (APK)        | Pending        |
-| iOS                  | Pending        |
+| Windows              | Under Development        |
+| macOS                | Under Development        |
+| Linux (Generic)      | Under Development        |
+| POP!_OS              | Under Development        |
+| Ubuntu               | Under Development        |
+| Fedora               | Under Development        |
+| Debian               | Under Development        |
+| Arch Linux           | Under Development        |
+| Android              | Under Development        |
+| Android (APK)        | Under Development        |
+| iOS                  | Under Development        |
 
 > **Note:** All OS support is planned. Status will be updated as development proceeds.
+>
+> **Note:** This project is in the early stages of development. The core features and unified setup process are actively being worked on.
 
 ---
 
