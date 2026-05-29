@@ -1,1 +1,1 @@
-> **Note:** The unified setup process is under development. Once available, you’ll be able to run the same setup script on any supported OS.
+> **POP!_OS Quick Start**: The unified setup process is now optimized for POP!_OS 22.04+. Run `./setup/install-linux.sh` to automatically configure all dependencies, Trae AI IDE integration, and development tools. Once complete, use `traex --init` to start your first AI-assisted project. The same setup works across other Linux distributions with distribution-specific auto-detection.
